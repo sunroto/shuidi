@@ -1,7 +1,7 @@
 ![][ShuiDiLogo]
 # 关于水滴（About ShuiDi）
 # 软件许可协议（License）
-Copyright 2016-2017 ShuiDi(Drop Of Water/DOW).
+Copyright 2017 ShuiDi(Water Drop/WD).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
